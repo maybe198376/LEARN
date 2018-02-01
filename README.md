@@ -1,4 +1,4 @@
-#LEARN: Learned Experts’ Assessment-based Reconstruction Network (LEARN) for Sparse-Data CT
+# LEARN: Learned Experts’ Assessment-based Reconstruction Network (LEARN) for Sparse-Data CT
 
 If you use this package in your research, please cite the following paper:
 
