@@ -2,7 +2,7 @@
 
 If you use this package in your research, please cite the following paper:
 
-`Hu Chen, Yi Zhang, Yunjin Chen, Junfeng Zhang, Weihua Zhang, Huaiqiang Sun, Yang Lv, Peixi Liao, Jiliu Zhou and Ge Wang, "LEARN: Learned Experts’ Assessment-based Reconstruction Network for Sparse-data CT" IEEE Trasnactions on Medical Imaging, Accepted for publication. 2018.
+`Hu Chen, Yi Zhang, Yunjin Chen, Junfeng Zhang, Weihua Zhang, Huaiqiang Sun, Yang Lv, Peixi Liao, Jiliu Zhou and Ge Wang, "LEARN: Learned Experts’ Assessment-based Reconstruction Network for Sparse-data CT" IEEE Trasnactions on Medical Imaging, 37(6), 1333-1347. 2018.
 `
 This code includes the MATLAB file of LEARN and the demo code for verifying it using MatConvnet. GPU(cuda) should be installed.
 
